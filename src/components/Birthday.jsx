@@ -36,9 +36,6 @@ const Birthday = () => {
                                     With warm wishes,
                                     <br />
                                     Dipan</p>
-                                <p className="name">Dipan</p>
-                                <p className="name3">&#10084;</p>
-                                <p className="name2">Anshita</p>
                             </div>
                         </div>
                     </div>
