@@ -30,7 +30,7 @@ const Birthday = () => {
                                 <br />
                                 <p>Dear Sohni,</p>
                                 <p>Happy Birthday! May this special day bring you joy, happiness, and all the wonderful things you deserve. Wishing you a year filled with love, laughter, and amazing memories.</p>
-                                <p>May all your dreams come true and may you always be blessed with good health and success.
+                                <p>I just wanted you to know that despite everything we’ve been through, I’m grateful we’re here today. You mean a lot to me, and I hope this year brings you peace and strength.
                                     <br />
                                     <br />
                                     With warm wishes,
